@@ -1,33 +1,31 @@
-# Hi there, I'm HOTIJATUL MUNAUWAROH 👋
+# Hi there, I'm Hotijatul Munauwaroh 👋
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=neovortexna&label=Profile%20views&color=0e75b6&style=flat" alt="neovortexna" />
 </p>
 
-### 🚀 Aspiring Data Scientist | Student
+### 🚀 Aspiring Data Scientist | Web Developer | Mathematics Student
 
-I am a passionate student deeply interested in the world of **Data Science**. I enjoy transforming complex data into actionable insights and exploring the intersection of mathematics and technology.
+I am a dedicated student with a strong interest in **Data Science** and **Web Development**. I enjoy bridge the gap between complex mathematical modeling and functional web applications.
 
-- 🎓 Currently studying **Informatic Engginering**
-- 🔭 I’m currently working on improving my skills in **Machine Learning & Statistical Analysis**.
-- 🌱 Learning: **Deep Learning, Big Data Tools, and Advanced SQL**.
-- ⚡ Fun fact: I love analyzing natural patterns through mathematical lenses, like my project on **Sunflower Patterns (Phyllotaxis)**.
+- 🎓 **Education:** Student of Mathematics/Tech.
+- 🔭 **Current Focus:** Analyzing numerical patterns and building interactive web interfaces.
+- 🌱 **Learning:** Machine Learning, Advanced Python, and Fullstack Web Development.
+- ⚡ **Fun Fact:** I love exploring the mathematical beauty of nature, such as phyllotaxis patterns.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />
   
-  <!-- Data Science Libraries -->
+  <!-- Data Science -->
   <br>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
 </p>
 
 ---
@@ -35,32 +33,28 @@ I am a passionate student deeply interested in the world of **Data Science**. I 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neovortexna&show_icons=true&theme=radical&hide_border=true" alt="neovortexna's github stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neovortexna&layout=compact&theme=radical&hide_border=true" alt="neovortexna's top langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neovortexna&show_icons=true&theme=radical&hide_border=true" alt="Hotijatul stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neovortexna&layout=compact&theme=radical&hide_border=true" alt="Hotijatul langs" />
 </p>
 
 ---
 
-### 📂 Featured Project
+### 📂 Highlighted Project
 
 #### 🌻 [Mathlab: Galat pada Pola Bunga Matahari](https://github.com/neovortexna/mathlab)
-*Analisis matematis menggunakan Python/Jupyter untuk mempelajari pola phyllotaxis dan perhitungan galat pada pertumbuhan bunga matahari.*
-- **Tech used:** Python, Jupyter Notebook, Matplotlib.
-- **Key Focus:** Numerical Analysis & Mathematical Modeling.
+*Analisis numerik menggunakan Python untuk menghitung galat pada pola pertumbuhan bunga matahari secara matematis.*
+- **Keywords:** Python, Numerical Analysis, Jupyter Notebook.
 
 ---
 
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAMELINKEDINKAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/hotijatul-munauwaroh" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Data is the new oil, but it's only valuable if you know how to refine it."</i>
+  <i>"Turning data into insights, and ideas into code."</i>
 </p>

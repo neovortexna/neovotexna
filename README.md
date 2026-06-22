@@ -1,91 +1,60 @@
-# Hi, I'm Hotijatul Munauwaroh 👋 
-### Informatics Engineering Student | Data Analyst | IoT Developer | Duta Kampus UNMUH Jember
-
+# Hi there, I'm Hotijatul Munauwaroh 👋
 <p align="left">
-<img src="https://imgian 1: GitHub Profile README (Halaman Depan)
-
-Gunakan kode Markdown di bawah ini untuk file `README.md` di repository `neovortexna`. Desain ini menonjolkan sisi teknis sekaligus kepemimpinanmu sebagai Duta Kampus.
-
-```markdown
-# Hi, I'm Hotijatul Munauwaroh 👋
-### Informatics Engineering Student | Duta Kampus UM Jember | Data Analyst & IoT Developer
-
-<p align="left">
-<.shields.io/badge/GPA-3.8%2B-success?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Silver_Medal-IoT_Competition_2025-grey?style=for-the-a href="https://www.linkedin.com/in/hotijatul-munauwaroh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:una.hotijatul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/GPA-3.8%2B-success?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duta_Kampus-Winner_2026-gold?style=for-the-badge&logo=academicons&logoColor=white" />
+  <img src="https://img.shields.io/badge/Silver_Medal-IoT_Competition-grey?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
+### 🚀 Informatics Engineering Student | Data Analyst | IoT Developer
 
-## 🚀 About Me
-I am a high-achieving Informatics Engineering student at **Universitas Muhammadiyah Jember** (Current GPA: 3.8+). I bridge the gap between technical expertise and leadership. As the **Winner/Duta Kampus UM Jember**, I am passionate about campus branding and student advocacy, while maintaining a strong technical focus on **Data Analysis**, **IoT**, and **Software Development**.
+I am a high-achieving Informatics Engineering student at **Universitas Muhammadiyah Jember** (Current GPA: 3.8+). I bridge the gap between technical expertise and leadership. As the **Winner/Duta Kampus**, I combine my skills in **Data Analysis** and **Software Development** with strong communication and advocacy.
 
-- 🏆 **Silver Medalist** in IoT at Muhammadiyah Student Competition Across Indonesia (2025).
-- 🎓 **Head of HR** at Informatics Engineering Students Association (2024-2025).
-- 💻 Specializedbadge&logo=arduino&logoColor=white" />
-</p>
-
-I am a high-achieving Informatics Engineering student driven by data and logic. Beyond my 3.8+ GPA, I bridge the gap between technical expertise and public leadership as the **Campus Ambassador (Duta Kampus)**. I specialize in turning complex problems into functional code, whether it's through mathematical modeling, web security, or IoT prototypes.
-
-- 🎓 **Education:** 4th Semester Informatics Engineering @ Universitas Muhammadiyah Jember.
-- 🏆 **Recent Achievement:** Silver Medalist in National IoT Competition (Muhammadiyah Student Competition 2025).
-- 🚀 **Current Interests:** Data Science, Cryptography, and AI implementation.
-- 📢 **Leadership:** Serving as Head of HR Division at Student Union (HMTI).
+- 🏆 **Silver Medalist** – National IoT Category at Muhammadiyah Student Competition (2025).
+- 🎓 **Head of HR Division** – Himpunan Mahasiswa Teknik Informatika (2024-2025).
+- 🔭 **Focusing on:** Cryptography, Machine Learning, and Smart System Prototyping.
 
 ---
 
 ### 🛠 Tech Toolbox
-| Category | Stack |
+
+| Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Python in **Python, JavaScript, and SQL**.
-
----
-
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript (Node.js), PHP, SQL, C++ (Robotics).
-- **Data Science:** Pandas, NumPy, Matplotlib, Numerical Analysis.
-- **Web & IoT:** Fullstack Development, Arduino/ESP32, System Security, JavaScript (ES6+), SQL, C++ (Robotics) |
-| **Data Science** | Pandas, NumPy, Matplotlib, Numerical Analysis |
-| **Web Development** | PHP, HTML5, CSS3, JavaScript | (Cryptography).
-- **Tools:** Git/GitHub, VS Code, XAMPP, MySQL.
-
----
-
-## 📂 Featured
-| **IoT & Hardware** | Arduino, Robotics Programming, Smart Monitoring Systems |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-CC2927?style=flat&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
+| **Hardware/IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ### 🌟 Featured Projects
-*   **[Web-Based Vigenere Cipher](https://github.com/neovortexna/Web-Based Projects
-### 🏥 [Web-Based Secure Pharmacy System](https://github.com/neovortexna/Web-Based-enskripsi)
-A management system for medical data using **Vigenere Cipher Encryption** to ensure database security. Built with PHP and-enskripsi):** A full-stack implementation of cryptographic algorithms for secure data handling.
-*   **[Mathlab - Sunflower Patterns](https://github.com/neovortexna/mathlab):** Mathematical modeling & error analysis using Python.
-* JavaScript.
 
-### 🌻 [Phyllotaxis Mathematical Modeling](https://github.com/neovortexna/mathlab)
-Analyzing numerical patterns in sunflowers using Python to calculate growth errors through mathematical lenses.
+#### 🏥 [Web-Based Secure Pharmacy System](https://github.com/neovortexna/Web-Based-enskripsi)
+*A management system for medical data using **Vigenere Cipher Encryption** to ensure database security. Built with PHP, JavaScript, and SQL.*
+
+#### 🌻 [Mathlab: Phyllotaxis Modeling](https://github.com/neovortexna/mathlab)
+*Analyzing numerical patterns in sunflowers using Python to calculate growth errors through mathematical lenses.*
+
+#### 🤖 [Smart IoT Monitoring System]
+*National Award-winning prototype for smart environment monitoring using Arduino and ESP32.*
 
 ---
 
-## 📊 Stats
+### 📊 GitHub Analysis
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neovortexna&show_icons=true&theme=radical   **Smart IoT Prototype:** (Coming Soon) - My Silver Medal-winning project for national competition.
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neovortexna&show_icons=true&theme=&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neovortexna&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-*“Turning complex data into actionableradical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neovortexna&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neovortexna&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect with me insights and robust code.”*
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/hotijatul-munauwaroh/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:una.hotijatul@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
+
+<p align="center"><i>"Turning complex data into actionable insights and robust code."</i></p>
